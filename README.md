@@ -43,7 +43,7 @@ Click WA logo to Join Support Group 👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/WhatsAnimegirl)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsalfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
 [![abhinandLFA](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/abhinandLFA/Animegirl)
      </div>
